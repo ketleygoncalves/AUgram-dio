@@ -118,7 +118,7 @@ body {
 
 .app-download {
     height: 3rem;
-    width: 10rem;
+    width: 15rem;
     background-size: cover;
 }
 
@@ -133,8 +133,7 @@ body {
 footer {
     position: fixed;
     bottom: 0;
-    width: 100%;
-    padding: 1rem;
+    width: 50%;
 }
 
 .footer{
